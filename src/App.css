@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.navItem.active {
+  font-weight: bold;
+}
 
 .App-logo {
   height: 40vmin;
